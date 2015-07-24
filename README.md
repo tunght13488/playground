@@ -15,7 +15,7 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require league/playground
+$ composer require tunght13488/playground
 ```
 
 ## Usage
@@ -52,17 +52,17 @@ If you discover any security related issues, please email tunght13488@gmail.com 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/league/playground.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/tunght13488/playground.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/thephpleague/playground/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/thephpleague/playground.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/thephpleague/playground.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/league/playground.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/tunght13488/playground/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/tunght13488/playground.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/tunght13488/playground.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/tunght13488/playground.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/league/playground
-[link-travis]: https://travis-ci.org/thephpleague/playground
-[link-scrutinizer]: https://scrutinizer-ci.com/g/thephpleague/playground/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/thephpleague/playground
-[link-downloads]: https://packagist.org/packages/league/playground
+[link-packagist]: https://packagist.org/packages/tunght13488/playground
+[link-travis]: https://travis-ci.org/tunght13488/playground
+[link-scrutinizer]: https://scrutinizer-ci.com/g/tunght13488/playground/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/tunght13488/playground
+[link-downloads]: https://packagist.org/packages/tunght13488/playground
 [link-author]: https://github.com/tunght13488
 [link-contributors]: ../../contributors

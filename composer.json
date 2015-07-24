@@ -1,11 +1,11 @@
 {
-    "name": "league/playground",
+    "name": "tunght13488/playground",
     "description": "My Playground for everything PHP",
     "keywords": [
-        "league",
+        "tunght13488",
         "playground"
     ],
-    "homepage": "https://github.com/thephpleague/playground",
+    "homepage": "https://github.com/tunght13488/playground",
     "license": "MIT",
     "authors": [
         {
